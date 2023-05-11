@@ -1,0 +1,3 @@
+Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+1- Install Dependancies for model and app.py file (venv file also present)
+2- Run "streamlit run app.py" command in your terminal to start the project
